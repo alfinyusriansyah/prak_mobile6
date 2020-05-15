@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9f8295ac71b77f09b4642380e68aa384/AndroidManifest.xml:17:1-22:12
+MERGED from [com.amitshekhar.android:jackson-android-networking:1.0.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/jackson-android-networking-1.0.1.aar/ee65c47ce3a601357786e9ef6c85360d/AndroidManifest.xml:20:1-29:12
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/android-networking-1.0.1.aar/f27a197893ef241f3ba080da8b8db542/AndroidManifest.xml:18:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3757a3074daae57b8e8ff80311cd04c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/alfin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8e23f8999f4fd889225c8994cac9f2f4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/6d1c7e4bcc5ef4e6c00a7d92ceb5e7f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/bbcc2f3e7152a5aa5697c2748d4aa353/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/e40d500bde18e3c28f8504e566c729e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3a208f6407c027d97faa28e45b773234/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b08b5d65b8954467d92d7b88e755e6ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c179324c46dab883e26c660c3ad968cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/56d94638c0c68dcfd65586cecffc7c96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/564faa36957081548e0a12915fd4ef39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b1f8d2269deb362137838a54dbe4e6aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/80a6cc0d69cb9b2ae87e913eea80dbfa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/878a40f63d1b980ddcc15376255262ea/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/alfin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/25eaaac9ce1f6799e3d9d970711d07cc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/alfin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8908b9a4fa4f20d36b2f989c5ab7d2d5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/alfin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0419507deead7389093cb9b086fdfc97/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/alfin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d49b6bf6af7ecf83c00cf161834a740d/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/alfin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8e23f8999f4fd889225c8994cac9f2f4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/alfin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8e23f8999f4fd889225c8994cac9f2f4/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.bapercoding.simplecrud.MainActivity
+ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.bapercoding.simplecrud.ManageStudentActivity
+ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:21:9-68
+	android:name
+		ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml:21:19-56
+uses-sdk
+INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9f8295ac71b77f09b4642380e68aa384/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9f8295ac71b77f09b4642380e68aa384/AndroidManifest.xml:20:5-44
+MERGED from [com.amitshekhar.android:jackson-android-networking:1.0.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/jackson-android-networking-1.0.1.aar/ee65c47ce3a601357786e9ef6c85360d/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:jackson-android-networking:1.0.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/jackson-android-networking-1.0.1.aar/ee65c47ce3a601357786e9ef6c85360d/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/android-networking-1.0.1.aar/f27a197893ef241f3ba080da8b8db542/AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/android-networking-1.0.1.aar/f27a197893ef241f3ba080da8b8db542/AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3757a3074daae57b8e8ff80311cd04c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3757a3074daae57b8e8ff80311cd04c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/alfin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8e23f8999f4fd889225c8994cac9f2f4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/alfin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8e23f8999f4fd889225c8994cac9f2f4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/6d1c7e4bcc5ef4e6c00a7d92ceb5e7f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/6d1c7e4bcc5ef4e6c00a7d92ceb5e7f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/bbcc2f3e7152a5aa5697c2748d4aa353/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/bbcc2f3e7152a5aa5697c2748d4aa353/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/e40d500bde18e3c28f8504e566c729e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/e40d500bde18e3c28f8504e566c729e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3a208f6407c027d97faa28e45b773234/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3a208f6407c027d97faa28e45b773234/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b08b5d65b8954467d92d7b88e755e6ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b08b5d65b8954467d92d7b88e755e6ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c179324c46dab883e26c660c3ad968cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c179324c46dab883e26c660c3ad968cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/56d94638c0c68dcfd65586cecffc7c96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/56d94638c0c68dcfd65586cecffc7c96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/564faa36957081548e0a12915fd4ef39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/564faa36957081548e0a12915fd4ef39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b1f8d2269deb362137838a54dbe4e6aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b1f8d2269deb362137838a54dbe4e6aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/80a6cc0d69cb9b2ae87e913eea80dbfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/80a6cc0d69cb9b2ae87e913eea80dbfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/878a40f63d1b980ddcc15376255262ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/alfin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/878a40f63d1b980ddcc15376255262ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/alfin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/25eaaac9ce1f6799e3d9d970711d07cc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/alfin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/25eaaac9ce1f6799e3d9d970711d07cc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/alfin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8908b9a4fa4f20d36b2f989c5ab7d2d5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/alfin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8908b9a4fa4f20d36b2f989c5ab7d2d5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/alfin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0419507deead7389093cb9b086fdfc97/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/alfin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0419507deead7389093cb9b086fdfc97/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/alfin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d49b6bf6af7ecf83c00cf161834a740d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/alfin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d49b6bf6af7ecf83c00cf161834a740d/AndroidManifest.xml:20:5-44
+INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/src/main/AndroidManifest.xml

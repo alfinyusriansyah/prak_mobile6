@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri May 15 01:46:39 WIB 2020
+0.baseType=DIRECTORY
+0.base=/home/alfin/Documents/pem.mobile/mod6/prak_modul_6mobile-master/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
